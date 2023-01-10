@@ -117,14 +117,6 @@ Contributions are what make the open source community such an amazing place to b
 
 Distributed under the MIT License.
 
-<!-- CONTACT -->
-## Contact
-
-My Name - U.L.D. Indrajith<br>
-Github Profile - [https://github.com/uldindrajith](https://github.com/uldindrajith)
-
-Project Link: [https://github.com/MAD-assignment/Gym-Management-System](https://github.com/MAD-assignment/Gym-Management-System)
-
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Udemy Flutter Course for Begineers (Recommended)](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
