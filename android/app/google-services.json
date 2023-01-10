@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "28235748917",
+    "project_id": "my-gym-manager-2d21c",
+    "storage_bucket": "my-gym-manager-2d21c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28235748917:android:77ad44e7939448ddee037c",
+        "android_client_info": {
+          "package_name": "com.example.my_gym_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28235748917-dp5es51q2i5iogqasv9isfk0h56bioh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtmYydvjHdxTv6Ju4Rp1jSpF2Qu2zq8u4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28235748917-dp5es51q2i5iogqasv9isfk0h56bioh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
